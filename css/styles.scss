@@ -85,3 +85,13 @@ html {
     position: absolute;
     bottom: 0px;
 }
+
+.modal-header {
+    background-color: $bacground-dark;
+    h4 {color: white;}
+    button {color: $background-pale;} 
+}
+
+.modal-body {
+    background-color: $background-pale;
+}
